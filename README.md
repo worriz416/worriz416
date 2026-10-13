@@ -9,7 +9,9 @@ Learning ML fundamentals and Data Structures & Algorithms concepts
 🫪 Working to become an exceptional programmer
 
 Reach me through:
-[![LinkedIn](https://shields.io)](linkedin.com/in/liam-klein7)
+<a href="linkedin.com/in/liam-klein7" target="_blank">
+  <img src="https://githubusercontent.com" alt="LinkedIn" width="40" height="40">
+</a>
 
 Fun Facts:
 - I've been doing BJJ for 5 years 🥋
