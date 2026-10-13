@@ -8,12 +8,9 @@ Learning ML fundamentals and Data Structures & Algorithms concepts
 
 🫪 Working to become an exceptional programmer
 
-Reach me through:
-<a href="https://linkedin.com" target="_blank">
-  <img align="center" src="https://githubusercontent.com" alt="Liam Klein LinkedIn" height="30" width="40" style="max-width: 100%; height: auto; max-height: 30px; aspect-ratio: 40 / 30; background-color: var(--bgColor-muted); border-radius: 6px" class="js-gh-image-fallback">
-</a>
+Reach me through my [LinkedIn](linkedin.com/in/liam-klein7)
 
-Fun Facts:
+**Fun Facts:**
 - I've been doing BJJ for 5 years 🥋
 - I play two musical instruments 🎹
 - I speak four languages 🌐
