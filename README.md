@@ -1,10 +1,10 @@
 ## Hey! I'm Liam 🙂 
 
-Computer Science student at McMaster University
+📚 Computer Science student at McMaster University
 
-😶‍🌫️ Currently building an adaptive piano-practice engine for the MacAI Society 
+💡 Currently building an adaptive piano-practice engine for the MacAI Society 
 
-Learning ML fundamentals and Data Structures & Algorithms concepts
+✍🏻 Learning ML fundamentals and Data Structures & Algorithms concepts
 
 🫪 Working to become an exceptional programmer
 
