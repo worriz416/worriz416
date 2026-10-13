@@ -1,4 +1,21 @@
-## Hi there 👋
+## Hey! I'm Liam 🙂 
+
+Computer Science student at McMaster University
+
+Currently building an adaptive piano-practice engine for the MacAI Society 😶‍🌫️
+
+Learning ML fundamentals and Data Structures & Algorithms concepts
+
+Working to become an exceptional programmer 🫪
+
+Reach me through:
+[Connect with me on LinkedIn](linkedin.com/in/liam-klein7)
+
+Fun Facts:
+- I've been doing BJJ for 5 years 🥋
+- I play two musical instruments 🎹
+- I speak four languages 🌐
+- Hobbies: Gym, Tennis, Piano
 
 <!--
 **worriz416/worriz416** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
