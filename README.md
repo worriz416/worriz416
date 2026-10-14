@@ -1,4 +1,4 @@
-## Hey! I'm Liam 🙂 
+## Hey! I'm Liam 👋
 
 📚 Computer Science student at McMaster University
 
@@ -11,7 +11,7 @@
 Reach me through my [LinkedIn](linkedin.com/in/liam-klein7)
 
 **Fun Facts:**
-- I've been doing BJJ for 5 years 🥋
+- I've been doing Brazilian Jiu Jitsu for 5 years 🥋
 - I play two musical instruments 🎹
 - I speak four languages 🌐
 - Hobbies: Gym, Tennis, Piano
